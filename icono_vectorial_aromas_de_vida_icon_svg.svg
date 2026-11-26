@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#312e81"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bgGrad)"/>
+  <polygon points="256,102 287,194 379,225 287,256 256,348 225,256 133,225 225,194" fill="#ffffff"/>
+  <polygon points="358,104 371,132 399,145 371,158 358,186 345,158 317,145 345,132" fill="#fde68a"/>
+  <text x="256" y="422" text-anchor="middle" fill="#e0e7ff" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="64" letter-spacing="3">AROMAS</text>
+</svg>
